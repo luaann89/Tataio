@@ -1,0 +1,14 @@
+:root { 
+    --cor-de-fundo: #1e1e1e
+    --cor-de-fundo: #6f576f
+    -- branco #ffffff
+    --botao-ativo #3a375e
+    --botao-inativo rgb(58,55,94,0.5);
+    --texto-fundo rgb(58,55,94,0.3);
+    .ativo{
+        background-color
+    }
+ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde):
+}
